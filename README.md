@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software development.
 - 🌱 I’m currently learning Python and Java.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me, charitylangtce@gmail.com / gstarbiash@gmail.com
+- 📫 How to reach me, charitylangtcee@gmail.com / gstarbiash@gmail.com
 
 <!---
 CharityLangat/CharityLangat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
